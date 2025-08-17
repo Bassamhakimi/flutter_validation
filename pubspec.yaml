@@ -5,7 +5,7 @@ homepage: https://github.com/Bassamhakimi/flutter_validation
 
 environment:
   sdk: ">=3.0.0 <4.0.0"  # Updated for Dart 3
-  flutter: ">=3.0.0"  # Updated Flutter constraint
+  # flutter: ">=3.0.0"  # Updated Flutter constraint
 
 dependencies:
   flutter:
