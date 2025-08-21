@@ -14,7 +14,7 @@ dependencies:
   form_field_validator:
     git:
       url: https://github.com/Bassamhakimi/form_field_validator.git
-      ref: nested_multi_validator
+      ref: updated-intl
   validation_localizations:
     git:
       url: https://github.com/Bassamhakimi/flutter-localizations.git
